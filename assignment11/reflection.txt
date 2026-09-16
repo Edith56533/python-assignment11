@@ -1,0 +1,6 @@
+Static visualizations work well for printed reports, presentation and situations where the audience requires one message. 
+Interactive visualizations allow users to explore the data themselves by hovering over points and zooming in. They give more detail , but also need more compatible environments which are unnecessary when the information is clear enough with a simple static chart.
+
+Dashboards are useful because they organize multiple metrics and visualizations, also, allowing the application of filters to compare different kinds of data quickly and easily. They can also make it easier to detect problems more quickly.
+
+Tools like Plotly can improve how data professionals communicate with the user by allowing them to directly interact with the data. This helps even nontechnical users understand the information and select what is relevant to them. 
